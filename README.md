@@ -1,6 +1,6 @@
 # Swift-CL-Calculator - iOS Development
 
-<img src="Calculator-master/docs/calculatorExample.png" alt="Calculator Example" width="200" style="width: 30%; float: left; padding: 0 1em 1em 0;"/>
+<img src="Calculator-master/docs/calculatorExample2.png" alt="Calculator Example" width="200" style="width: 30%; float: left; padding: 0 1em 1em 0;"/>
 
 A simple command-line calculator designed in Swift which utilises basic operators (+, -, *, /, %) and implements order of operations. Multiplication is input as **" x "** instead of **" * "** in the terminal.
 
